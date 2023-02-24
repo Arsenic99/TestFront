@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/TestFront/static/css/main.6db48eee.css",
-    "main.js": "/TestFront/static/js/main.31c957fb.js",
+    "main.css": "/TestFront/static/css/main.384f47a0.css",
+    "main.js": "/TestFront/static/js/main.0e2a9136.js",
     "static/media/planet.webp": "/TestFront/static/media/planet.f0b1e438ecca6c133357.webp",
     "static/media/AvenirNextCyr-Regular.eot": "/TestFront/static/media/AvenirNextCyr-Regular.3ae7af43a22fc7caef32.eot",
     "static/media/AvenirNextCyr-Regular.ttf": "/TestFront/static/media/AvenirNextCyr-Regular.d5515aff04ff81140f75.ttf",
     "static/media/AvenirNextCyr-Regular.woff": "/TestFront/static/media/AvenirNextCyr-Regular.1f3e188cad9e2dc3259b.woff",
     "index.html": "/TestFront/index.html",
-    "main.6db48eee.css.map": "/TestFront/static/css/main.6db48eee.css.map",
-    "main.31c957fb.js.map": "/TestFront/static/js/main.31c957fb.js.map"
+    "main.384f47a0.css.map": "/TestFront/static/css/main.384f47a0.css.map",
+    "main.0e2a9136.js.map": "/TestFront/static/js/main.0e2a9136.js.map"
   },
   "entrypoints": [
-    "static/css/main.6db48eee.css",
-    "static/js/main.31c957fb.js"
+    "static/css/main.384f47a0.css",
+    "static/js/main.0e2a9136.js"
   ]
 }
